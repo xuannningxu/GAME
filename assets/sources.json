@@ -1,0 +1,166 @@
+[
+  {
+    "id": "fox",
+    "page": "https://en.wikipedia.org/wiki/Red_fox",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Portrait_of_a_red_fox_in_Rautas_fj%C3%A4llurskog_%28cropped%29.jpg/960px-Portrait_of_a_red_fox_in_Rautas_fj%C3%A4llurskog_%28cropped%29.jpg",
+    "status": "downloaded",
+    "file": "https://commons.wikimedia.org/wiki/File:Portrait_of_a_red_fox_in_Rautas_fj%C3%A4llurskog_%28cropped%29.jpg",
+    "author": "ClaudiaTen",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "",
+    "copyright": "True"
+  },
+  {
+    "id": "wolf",
+    "page": "https://en.wikipedia.org/wiki/Wolf",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Eurasian_wolf_2.jpg/330px-Eurasian_wolf_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "status": "downloaded",
+    "file": "https://commons.wikimedia.org/wiki/File:Eurasian_wolf_2.jpg",
+    "author": "Mas3cf; crop Sciencia58; colour MPF",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  {
+    "id": "owl",
+    "page": "https://en.wikipedia.org/wiki/Eurasian_eagle-owl",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Bubo_bubo_3_%28Martin_Mecnarowski%29.jpg/330px-Bubo_bubo_3_%28Martin_Mecnarowski%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "status": "downloaded",
+    "file": "https://commons.wikimedia.org/wiki/File:Bubo_bubo_3_%28Martin_Mecnarowski%29.jpg",
+    "author": "Martin Mecnarowski / photomecan.eu",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+  },
+  {
+    "id": "dolphin",
+    "page": "https://en.wikipedia.org/wiki/Common_bottlenose_dolphin",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Tursiops_truncatus_01-cropped.jpg/330px-Tursiops_truncatus_01-cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "status": "downloaded",
+    "file": "https://commons.wikimedia.org/wiki/File:Tursiops_truncatus_01-cropped.jpg",
+    "author": "NASA; crop Medium69",
+    "license": "Public domain",
+    "license_url": "https://commons.wikimedia.org/wiki/Template:PD-USGov-NASA"
+  },
+  {
+    "id": "elephant",
+    "page": "https://en.wikipedia.org/wiki/African_bush_elephant",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/178_Male_African_bush_elephant_in_Etosha_National_Park_Photo_by_Giles_Laurent.jpg/960px-178_Male_African_bush_elephant_in_Etosha_National_Park_Photo_by_Giles_Laurent.jpg",
+    "status": "downloaded",
+    "file": "https://commons.wikimedia.org/wiki/File:178_Male_African_bush_elephant_in_Etosha_National_Park_Photo_by_Giles_Laurent.jpg",
+    "author": "© Giles Laurent, gileslaurent.com, License CC BY-SA",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "",
+    "copyright": "True"
+  },
+  {
+    "id": "leopard",
+    "page": "https://en.wikipedia.org/wiki/Leopard",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/African_leopard_male_%28cropped%29.jpg/330px-African_leopard_male_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "status": "downloaded",
+    "file": "https://commons.wikimedia.org/wiki/File:African_leopard_male_%28cropped%29.jpg",
+    "author": "Sumeet Moghe",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  {
+    "id": "deer",
+    "page": "https://en.wikipedia.org/wiki/Red_deer",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Cervus_elaphus_Luc_Viatour_6.jpg/330px-Cervus_elaphus_Luc_Viatour_6.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "status": "downloaded",
+    "file": "https://commons.wikimedia.org/wiki/File:Cervus_elaphus_Luc_Viatour_6.jpg",
+    "author": "Luc Viatour / Lucnix.be",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+  },
+  {
+    "id": "bear",
+    "page": "https://en.wikipedia.org/wiki/Brown_bear",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/2010-kodiak-bear-1.jpg/330px-2010-kodiak-bear-1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "status": "downloaded",
+    "file": "https://commons.wikimedia.org/wiki/File:2010-kodiak-bear-1.jpg",
+    "author": "Yathin S Krishnappa",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+  },
+  {
+    "id": "otter",
+    "page": "https://en.wikipedia.org/wiki/Eurasian_otter",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Fischotter%2C_Lutra_Lutra.JPG/330px-Fischotter%2C_Lutra_Lutra.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "status": "downloaded",
+    "file": "https://commons.wikimedia.org/wiki/File:Fischotter%2C_Lutra_Lutra.JPG",
+    "author": "Bernard Landgraf; crop Taras",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+  },
+  {
+    "id": "raven",
+    "page": "https://en.wikipedia.org/wiki/Common_raven",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Corvus_corax_clarionensis%2C_Point_Reyes_National_Seashore.jpg/330px-Corvus_corax_clarionensis%2C_Point_Reyes_National_Seashore.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "status": "downloaded",
+    "file": "https://commons.wikimedia.org/wiki/File:Corvus_corax_clarionensis%2C_Point_Reyes_National_Seashore.jpg",
+    "author": "© Frank Schulenburg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  {
+    "id": "penguin",
+    "page": "https://en.wikipedia.org/wiki/Emperor_penguin",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Aptenodytes_forsteri_-Snow_Hill_Island%2C_Antarctica_-adults_and_juvenile-8.jpg/330px-Aptenodytes_forsteri_-Snow_Hill_Island%2C_Antarctica_-adults_and_juvenile-8.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "status": "downloaded",
+    "file": "https://commons.wikimedia.org/wiki/File:Aptenodytes_forsteri_-Snow_Hill_Island%2C_Antarctica_-adults_and_juvenile-8.jpg",
+    "author": "Ian Duffy",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/"
+  },
+  {
+    "id": "eagle",
+    "page": "https://en.wikipedia.org/wiki/Golden_eagle",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/015_Wild_Golden_Eagle_in_flight_at_Pfyn-Finges_%28Switzerland%29_Photo_by_Giles_Laurent.jpg/330px-015_Wild_Golden_Eagle_in_flight_at_Pfyn-Finges_%28Switzerland%29_Photo_by_Giles_Laurent.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "status": "downloaded",
+    "file": "https://commons.wikimedia.org/wiki/File:015_Wild_Golden_Eagle_in_flight_at_Pfyn-Finges_%28Switzerland%29_Photo_by_Giles_Laurent.jpg",
+    "author": "© Giles Laurent, gileslaurent.com, License CC BY-SA",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  {
+    "id": "capybara",
+    "page": "https://en.wikipedia.org/wiki/Capybara",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Capybaracropped.jpg/330px-Capybaracropped.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "status": "downloaded",
+    "file": "https://commons.wikimedia.org/wiki/File:Capybaracropped.jpg",
+    "author": "© Giles Laurent, gileslaurent.com, License CC BY-SA",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  {
+    "id": "horse",
+    "page": "https://en.wikipedia.org/wiki/Przewalski's_horse",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Przewalskis_horse_02.jpg/330px-Przewalskis_horse_02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "status": "downloaded",
+    "file": "https://commons.wikimedia.org/wiki/File:Przewalskis_horse_02.jpg",
+    "author": "Claudia Feh",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  {
+    "id": "turtle",
+    "page": "https://en.wikipedia.org/wiki/Green_sea_turtle",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Green_sea_turtle_%28Chelonia_mydas%29_Moorea.jpg/330px-Green_sea_turtle_%28Chelonia_mydas%29_Moorea.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "status": "downloaded",
+    "file": "https://commons.wikimedia.org/wiki/File:Green_sea_turtle_%28Chelonia_mydas%29_Moorea.jpg",
+    "author": "Charles J. Sharp / sharpphotography.co.uk",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  {
+    "id": "meerkat",
+    "page": "https://en.wikipedia.org/wiki/Meerkat",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Meerkat_%28Suricata_suricatta%29_Tswalu.jpg/330px-Meerkat_%28Suricata_suricatta%29_Tswalu.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "status": "downloaded",
+    "file": "https://commons.wikimedia.org/wiki/File:Meerkat_%28Suricata_suricatta%29_Tswalu.jpg",
+    "author": "Charles J. Sharp / sharpphotography.co.uk",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+]
